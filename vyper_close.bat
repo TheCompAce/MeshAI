@@ -1,0 +1,1 @@
+meshaienv\Scripts\deactivate.bat
